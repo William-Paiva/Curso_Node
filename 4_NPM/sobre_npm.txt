@@ -1,0 +1,6 @@
+npm install -g   ---pacote global
+
+npm uninstall ---remover pacote
+
+npm update <package name> ---uptade no pacote
+
